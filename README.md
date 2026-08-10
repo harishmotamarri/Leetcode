@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harishmotamarri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harishmotamarri/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harishmotamarri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harishmotamarri/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harishmotamarri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harishmotamarri/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harishmotamarri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/harishmotamarri/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harishmotamarri/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
