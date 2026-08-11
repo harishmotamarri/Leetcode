@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harishmotamarri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/harishmotamarri/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/harishmotamarri/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harishmotamarri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harishmotamarri/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harishmotamarri/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harishmotamarri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/harishmotamarri/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harishmotamarri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
