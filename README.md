@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harishmotamarri/Leetcode/tree/master/1140-stone-game-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/harishmotamarri/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1510-stone-game-iv](https://github.com/harishmotamarri/Leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harishmotamarri/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishmotamarri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/harishmotamarri/Leetcode/tree/master/1140-stone-game-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/harishmotamarri/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/harishmotamarri/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Minimax
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harishmotamarri/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/harishmotamarri/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
