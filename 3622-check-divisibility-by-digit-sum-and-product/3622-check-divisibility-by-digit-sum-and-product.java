@@ -1,18 +1,19 @@
 class Solution {
-
     public boolean checkDivisibility(int n) {
-        int digitSum = 0;
-        int digitProduct = 1;
-        int original = n;
-
-        while (n > 0) {
-            int digit = n % 10;
-            n /= 10;
-
-            digitSum += digit;
-            digitProduct *= digit;
+        int n1=n;
+        int sum = 0;
+        int prod = 1;
+        while(n>0){
+            int lastdigit = n%10;
+            sum = sum + lastdigit;
+            prod = prod * lastdigit;
+            n = n/10;
         }
-
-        return original % (digitSum + digitProduct) == 0;
+        if(n1 % (sum + prod)== 0){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 }
