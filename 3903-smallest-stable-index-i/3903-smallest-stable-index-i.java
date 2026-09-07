@@ -1,7 +1,5 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int stable = Integer.MAX_VALUE;
-
         for (int i = 0; i < nums.length; i++) {
             int max = Integer.MIN_VALUE;
             int min = Integer.MAX_VALUE;
@@ -13,15 +11,11 @@ class Solution {
             for (int j = i; j < nums.length; j++) {
                 min = Math.min(nums[j], min);
             }
-
-            int instable = max - min;
-
-            if (instable <= k) {
-                stable = i;
-                break;   // first stable index
+            if (max - min <= k) {
+                return i;
             }
         }
 
-        return stable == Integer.MAX_VALUE ? -1 : stable;
+        return -1;
     }
 }
