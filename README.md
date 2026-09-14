@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/harishmotamarri/Leetcode/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harishmotamarri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishmotamarri/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harishmotamarri/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishmotamarri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/harishmotamarri/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harishmotamarri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harishmotamarri/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harishmotamarri/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harishmotamarri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -213,8 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harishmotamarri/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harishmotamarri/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
