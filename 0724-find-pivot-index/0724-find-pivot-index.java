@@ -7,10 +7,8 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             leftsum[i] = nums[i] + left;
             left+=nums[i];
-        }
-        for(int i=nums.length - 1;i>=0;i--){
-            rightsum[i] = nums[i] + right;
-            right+=nums[i];
+            rightsum[nums.length-i-1] = nums[nums.length-i-1] + right;
+            right+=nums[nums.length-i-1];
         }
         for(int i=0;i<nums.length;i++){
             if(leftsum[i] == rightsum[i]){
