@@ -7,9 +7,10 @@ class Solution {
                 p++;
             }
             if(s.charAt(i)==')'){
-                max = Math.max(p,max);
+                
                 p--;
             }
+            max = Math.max(p,max);
         }
         return max;
     }
