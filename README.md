@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/harishmotamarri/Leetcode/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/harishmotamarri/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2029-stone-game-ix](https://github.com/harishmotamarri/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harishmotamarri/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harishmotamarri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harishmotamarri/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harishmotamarri/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/harishmotamarri/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harishmotamarri/Leetcode/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harishmotamarri/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harishmotamarri/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harishmotamarri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harishmotamarri/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harishmotamarri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harishmotamarri/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harishmotamarri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Segment Tree
 |  |
