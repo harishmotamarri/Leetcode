@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harishmotamarri/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harishmotamarri/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishmotamarri/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/harishmotamarri/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harishmotamarri/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/harishmotamarri/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/harishmotamarri/Leetcode/tree/master/0724-find-pivot-index) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/harishmotamarri/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/harishmotamarri/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harishmotamarri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harishmotamarri/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
